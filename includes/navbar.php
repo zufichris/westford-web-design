@@ -1,6 +1,6 @@
 <nav class="navbar">
     <div class="container">
-        <a href="index.php" class="logo">E-Shop</a>
+        <a href="index.php" class="logo">ABC Supermarket</a>
         <div class="nav-links">
             <a href="index.php">Home</a>
             <a href="products.php">Products</a>

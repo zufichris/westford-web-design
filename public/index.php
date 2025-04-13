@@ -161,7 +161,7 @@ $featured_products = mysqli_fetch_all($result, MYSQLI_ASSOC);
     <!-- Navigation -->
     <nav class="navbar">
         <div class="container">
-            <a href="index.php" class="logo">E-Shop</a>
+            <a href="index.php" class="logo">ABC Supermarket</a>
             <div class="nav-links">
                 <a href="index.php">Home</a>
                 <a href="products.php">Products</a>
@@ -242,12 +242,12 @@ $featured_products = mysqli_fetch_all($result, MYSQLI_ASSOC);
                 </div>
                 <div class="footer-section">
                     <h3>Contact Us</h3>
-                    <p>Email: info@eshop.com</p>
+                    <p>Email: info@abc-supermarket.com</p>
                     <p>Phone: (123) 456-7890</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 E-Shop. All rights reserved.</p>
+                <p>&copy; 2024 ABC Supermarket. All rights reserved.</p>
             </div>
         </div>
     </footer>

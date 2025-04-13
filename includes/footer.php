@@ -15,7 +15,7 @@
             </div>
             <div class="footer-section">
                 <h3>Contact Us</h3>
-                <p><i class="fas fa-envelope"></i> info@eshop.com</p>
+                <p><i class="fas fa-envelope"></i> info@abc-supermarket.com</p>
                 <p><i class="fas fa-phone"></i> (123) 456-7890</p>
                 <p><i class="fas fa-map-marker-alt"></i> 123 Main St, City, Country</p>
             </div>
@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; <?php echo date('Y'); ?> E-Shop. All rights reserved.</p>
+            <p>&copy; <?php echo date('Y'); ?> ABC Supermarket. All rights reserved.</p>
         </div>
     </div>
 </footer>

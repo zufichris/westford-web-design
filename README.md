@@ -26,8 +26,8 @@ A fully functional e-commerce website built with PHP, MySQL, HTML, CSS, and Java
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-website.git
-cd ecommerce-website
+git clone https://github.com/zufichris/westford-web-design.git
+cd westford-web-design  
 ```
 
 2. Create a MySQL database and import the schema:
